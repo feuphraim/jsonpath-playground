@@ -1,0 +1,1 @@
+cat q2.json | jpath $.*.color

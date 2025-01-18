@@ -1,0 +1,1 @@
+cat q1.json | jpath $.*
